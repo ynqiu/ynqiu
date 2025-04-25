@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am currently a researcher supported by the RIKEN's Special Postdoctoral Researchers (SPDR) Program, working in the Center for Advanced Intelligence Project (AIP) since 2023. My research interests include tensor networks, efficient machine learning, large language models, and quantum machine learning.
+I am currently a researcher supported by [RIKEN's Special Postdoctoral Researchers (SPDR) Program](https://www.riken.jp/en/careers/programs/spdr/), working in the Center for Advanced Intelligence Project (AIP) since 2023. My research interests include tensor networks, efficient machine learning, large language models, and quantum machine learning.
 
 <!--
 **ynqiu/ynqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
