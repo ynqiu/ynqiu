@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am currently a Research Scientist ($\approx$Assistant Professor) at RIKEN iTHEMS and the RIKEN AIP, with support from [RIKEN Quantum](https://rq.riken.jp/en/members/). Before joining RIKEN iTHEMS, I worked as a researcher at RIKEN AIP under RIKEN’s [Special Postdoctoral Researchers (SPDR) Program](https://www.riken.jp/en/careers/programs/spdr/), starting in 2023. My research interests include tensor networks, efficient machine learning, large language models, and quantum machine learning.
+I am currently a Research Scientist (≈Assistant Professor) at RIKEN iTHEMS and the RIKEN AIP, with support from [RIKEN Quantum](https://rq.riken.jp/en/members/). Before joining RIKEN iTHEMS, I worked as a researcher at RIKEN AIP under RIKEN’s [Special Postdoctoral Researchers (SPDR) Program](https://www.riken.jp/en/careers/programs/spdr/), starting in 2023. My research interests include tensor networks, efficient machine learning, large language models, and quantum machine learning.
 
 <!--
 **ynqiu/ynqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
